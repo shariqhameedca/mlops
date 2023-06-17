@@ -1,0 +1,1 @@
+This is practice repository for mlops
